@@ -2,3 +2,4 @@ Some contents
 More contents
 
 Added feature2 stuff
+Added feature3 stuff
